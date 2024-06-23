@@ -6,7 +6,6 @@ var tl = gsap.timeline()
 tl.to(".innernavbar",{
     right:0,
     duration:0.5,
-
 })
 
 tl.from(".innernavbar h4",{
